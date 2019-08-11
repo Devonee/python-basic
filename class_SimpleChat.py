@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# title: class_SimpleChat.py
+# author(s): Devonee (Hyemi Jo)
+# date created: 2019-08-11
+# description: creating a simple QnA sequence in Korean
+
 import random
 
 class Person:
